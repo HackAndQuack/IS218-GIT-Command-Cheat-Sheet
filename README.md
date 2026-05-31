@@ -13,3 +13,4 @@ git add ~ Stages file changes to be included in the next commit
 git commit ~ Saves staged changes as a snapshot in the repository history
 git push ~ Uploads local commits to the remote repository
 git pull ~ Downloads and merges changes from the remote repository
+git status ~ Shows the current state of the working directory and staging area
