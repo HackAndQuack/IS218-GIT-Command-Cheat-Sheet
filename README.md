@@ -1,16 +1,18 @@
+```
 Command ~ What it Does
-	ls ~ Lists files and directories in the current directory
-	pwd ~ Prints the full path of the current working directory
-	cd ~ Changes the current directory to the specified path
-	mkdir ~ Creates a new directory with the given name
-	rm ~ Removes files or directories from the filesystem
-	cp ~ Copies a file or directory to a new location
-	mv ~ Moves or renames a file or directory
-	chmod ~ Changes the read/write/execute permissions of a file or directory
-	git init ~ Initializes a new empty Git repository in the current directory
-	git clone ~ Downloads a remote repository and its full history to your machine
-	git add ~ Stages file changes to be included in the next commit
-	git commit ~ Saves staged changes as a snapshot in the repository history
-	git push ~ Uploads local commits to the remote repository
-	git pull ~ Downloads and merges changes from the remote repository
-	git status ~ Shows the current state of the working directory and staging area
+    ls ~ Lists files and directories in the current directory
+    pwd ~ Prints the full path of the current working directory
+    cd ~ Changes the current directory to the specified path
+    mkdir ~ Creates a new directory with the given name
+    rm ~ Removes files or directories from the filesystem
+    cp ~ Copies a file or directory to a new location
+    mv ~ Moves or renames a file or directory
+    chmod ~ Changes the read/write/execute permissions of a file or directory
+    git init ~ Initializes a new empty Git repository in the current directory
+    git clone ~ Downloads a remote repository and its full history to your machine
+    git add ~ Stages file changes to be included in the next commit
+    git commit ~ Saves staged changes as a snapshot in the repository history
+    git push ~ Uploads local commits to the remote repository
+    git pull ~ Downloads and merges changes from the remote repository
+    git status ~ Shows the current state of the working directory and staging area
+```
