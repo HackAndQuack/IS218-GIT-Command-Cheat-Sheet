@@ -12,3 +12,4 @@ git clone ~ Downloads a remote repository and its full history to your machine
 git add ~ Stages file changes to be included in the next commit
 git commit ~ Saves staged changes as a snapshot in the repository history
 git push ~ Uploads local commits to the remote repository
+git pull ~ Downloads and merges changes from the remote repository
