@@ -3,3 +3,4 @@ ls ~ Lists files and directories in the current directory
 pwd ~ Prints the full path of the current working directory
 cd ~ Changes the current directory to the specified path
 mkdir ~ Creates a new directory with the given name
+rm ~ Removes files or directories from the filesystem
