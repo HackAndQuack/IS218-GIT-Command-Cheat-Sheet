@@ -7,3 +7,4 @@ rm ~ Removes files or directories from the filesystem
 cp ~ Copies a file or directory to a new location
 mv ~ Moves or renames a file or directory
 chmod ~ Changes the read/write/execute permissions of a file or directory
+git init ~ Initializes a new empty Git repository in the current directory
